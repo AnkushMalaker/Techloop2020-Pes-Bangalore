@@ -4,13 +4,18 @@ Star it for easy access to resources.
 
 ## Instructions to use Regression.ipynb
 1. Method 1 - Import from Github into Google Colab
-	i. Under the url section, enter "https://github.com/AnkushMalaker/Techloop2020-Pes-Bangalore"
-	ii. Make sure master branch is selected
-	iii. Select Regression.ipynb
+	i. Under the url section, enter "https://github.com/AnkushMalaker/Techloop2020-Pes-Bangalore"    
+
+	ii. Make sure master branch is selected    
+
+	iii. Select Regression.ipynb    
+
 2. Method 2 - Upload to Google Colab
-	i. Go to the upload section on Google Colab and upload Regression.ipynb from your computer
+	i. Go to the upload section on Google Colab and upload Regression.ipynb from your computer    
+
 3. Method 3 - Using jupyter notebook
-	i. Place Regression.ipynb on the directory that jupyter notebook is using and open it from the homepage.
+	i. Place Regression.ipynb on the directory that jupyter notebook is using and open it from the homepage.    
+
 
 ## Resources:
 
